@@ -1,1 +1,2 @@
 Hello there. This is Git and github for educators.
+SEcond line added.
